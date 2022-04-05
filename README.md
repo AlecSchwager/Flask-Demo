@@ -1,6 +1,6 @@
 # Project Name
 *Flask Application Demo*
-
+![MicrosoftAzure](https://img.shields.io/badge/-Azure-blue?logo=microsoftazure)
 # What Did I Learn?
 *This project taught me how to use Flask and create Flask apps using Jinja templates, as well as reinforced my knowledge of Python.*
 
