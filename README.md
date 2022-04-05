@@ -1,7 +1,11 @@
-# Flask Demo
-Basic structure for starting a Flask project with Jinja templates
+# Project Name
+*Flask Application Demo*
 
----
+# What Did I Learn?
+*This project taught me how to use Flask and create Flask apps using Jinja templates, as well as reinforced my knowledge of Python.*
+
+
+# Installation Instructions
 1. Clone this repository to local computer
 
 2. Create a new virtual environment 
@@ -17,6 +21,8 @@ Basic structure for starting a Flask project with Jinja templates
 5. Create and change to a new local development branch ```git checkout b development```
 
 6. Continue working with the project as you normally would.
+
+## To do
 
 - [x] Get Flask running on local computer
 - [ ] Add web form for users
