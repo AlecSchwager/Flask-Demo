@@ -1,5 +1,6 @@
 # Project Name
 *Flask Application Demo*
+
 ![MicrosoftAzure](https://img.shields.io/badge/-Azure-blue?logo=microsoftazure)
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=Flask)
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
