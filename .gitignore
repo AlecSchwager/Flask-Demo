@@ -1,3 +1,11 @@
+#VS Code Workspace file
+.VSCode
+
+
+#Python dotenv file
+.env
+
+
 #Virtual Environment
 venv/
 
