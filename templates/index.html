@@ -7,5 +7,11 @@
     <h2> This is my Flask server </h2>
 
     <img src="{{ url_for('static',filename='Images/above_ground_vertical_tanks.jpg')}}" />
+    <form action="/add_estimateData" method ="POST">
+        <input type="text" id="tankRadius" name="tankRadius" />
+        <input type="text" id="tankHeight" name="tankHeight" />
+
+    </form>
+
 
 {% endblock %}

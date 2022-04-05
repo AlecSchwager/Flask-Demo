@@ -11,9 +11,9 @@ def index():
 def mike():
     return render_template('mike.html', pageTitle='About Mike')
 
-@app.route('/alec')
-def alec():
-    return render_template('alec.html', pageTitle='About Alec')
+@app.route('/add_estimateData')
+def add_estimateData():
+    return render_template('estimate.html', pageTitle='Estimate Info')
 
 if __name__ == '__main__':
     app.run(debug=True)
